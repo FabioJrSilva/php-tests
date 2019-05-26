@@ -18,5 +18,4 @@ class Email
         $this->message = $message;
         $this->headers = $headers;
     }
-    
 }
