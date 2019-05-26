@@ -2,8 +2,8 @@
 
 namespace Tests;
 
-use App\Classes\Person;
 use PHPUnit\Framework\TestCase;
+use App\Classes\Person;
 use App\Interfaces\GreetingInterface;
 use App\Classes\MorningGreeting;
 use App\Classes\EveningGreeting;
